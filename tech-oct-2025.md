@@ -36,16 +36,16 @@ when I didn't need them.
 
 They are really interesting. If giving a presentation I would have backups of everything I want to present.
 
-I did a full review here: https://github.com/hpssjellis/my-examples-and-posts-of-g1-even-realities-smart-glasses
+I did a full review here: https://github.com/hpssjellis/my-examples-and-posts-of-g1-even-realities-smart-glasses  <br>
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/e1016fca-4620-4414-ba6d-7e70c42fc402" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/e1016fca-4620-4414-ba6d-7e70c42fc402" /><br>
 
 <img width="396"  alt="image" src="https://github.com/user-attachments/assets/54a267a0-2d8a-4d6b-818d-17cd53874aef" />
 
 
 
  
- https://www.evenrealities.com/g1
+Their website: https://www.evenrealities.com/g1
 
 
 ---
@@ -67,7 +67,7 @@ Demo at https://hpssjellis.github.io/teach-chrome-built-in-ai-with-examples/
 
 https://github.com/hpssjellis/maker100-curriculum
 
-Setup price suggestions for xiaoML-kit
+Setup price suggestions for the Seeedstudio xiaoML-kit
 [https://hpssjellis.github.io/maker100-curriculum/price-list.html](https://hpssjellis.github.io/maker100-xiaoML-kit/price-list-xiaoml-kit.html)
 
 
@@ -75,6 +75,16 @@ Setup price suggestions for xiaoML-kit
 
 
 ----
+
+
+### Arduino new UnoQ Full Linux with micrccontroller
+
+I have ordered 3 so have no opinion yet, but it is very interesting for $44 USD
+
+Arduino Store:  https://store-usa.arduino.cc/products/uno-q
+
+
+---
 
 
 ### Technology and LLM's and cell phones
@@ -92,9 +102,16 @@ Now $149  CDN  https://www.amazon.ca/dp/B0D9MK345T
 
 
 
+### Me: Jeremy Ellis
+Teaching technology Sceince Math and Physics for 35 Years
+
+
+Github Profile https://github.com/hpssjellis
+<img width="449" height="440" alt="image" src="https://github.com/user-attachments/assets/8415c12b-d68c-4979-9cd4-2ae30387ad12" />
 
 
 
+LinkedIn: Follow me!  https://ca.linkedin.com/in/jeremy-ellis-4237a9bb
 
 
 
