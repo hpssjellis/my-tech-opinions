@@ -1,15 +1,15 @@
 ## Ellis tech-oct-2025.md
 
 ## Table of Contents
-1. [rabbit-r1](https://github.com/hpssjellis/my-tech-opinions/blob/main/tech-oct-2025.md#rabbit-r1)
-1. [seeedstudio-sensecraft-watcher](https://github.com/hpssjellis/my-tech-opinions/blob/main/tech-oct-2025.md#seeedstudio-sensecraft-watcher)
-2. [evenrealities-g1](https://github.com/hpssjellis/my-tech-opinions/blob/main/tech-oct-2025.md#evenrealities-g1b-smart-glasses)
-3. [chrome-built-in-ai](https://github.com/hpssjellis/my-tech-opinions/blob/main/tech-oct-2025.md#chrome-built-in-ai)
-4. [robotics-curriculum](https://github.com/hpssjellis/my-tech-opinions/blob/main/tech-oct-2025.md#robotics-curriculum)
-5. [arduino-new-unoq](https://github.com/hpssjellis/my-tech-opinions/blob/main/tech-oct-2025.md#arduino-new-unoq-full-linux-with-micrccontroller)
-6. [technology-and-llms-and-cell-phones](https://github.com/hpssjellis/my-tech-opinions/blob/main/tech-oct-2025.md#technology-and-llms-and-cell-phones)
-7. [google-litertjs](https://github.com/hpssjellis/my-tech-opinions/blob/main/tech-oct-2025.md#google-litertjs)
-8. [me-jeremy-ellis](https://github.com/hpssjellis/my-tech-opinions/blob/main/tech-oct-2025.md#me-jeremy-ellis)
+1. [Rabbit-R1](https://github.com/hpssjellis/my-tech-opinions/blob/main/tech-oct-2025.md#rabbit-r1)
+1. [Seeedstudio-Sensecraft-Watcher](https://github.com/hpssjellis/my-tech-opinions/blob/main/tech-oct-2025.md#seeedstudio-sensecraft-watcher)
+2. [Even Realities-G1](https://github.com/hpssjellis/my-tech-opinions/blob/main/tech-oct-2025.md#evenrealities-g1b-smart-glasses)
+3. [Chrome-built-in-AI](https://github.com/hpssjellis/my-tech-opinions/blob/main/tech-oct-2025.md#chrome-built-in-ai)
+4. [Ellis Robotics IoT and ML Curriculum](https://github.com/hpssjellis/my-tech-opinions/blob/main/tech-oct-2025.md#robotics-curriculum)
+5. [Arduino-new-unoQ](https://github.com/hpssjellis/my-tech-opinions/blob/main/tech-oct-2025.md#arduino-new-unoq-full-linux-with-micrccontroller)
+6. [Technology-and-LLM-and-Cell-Phones](https://github.com/hpssjellis/my-tech-opinions/blob/main/tech-oct-2025.md#technology-and-llms-and-cell-phones)
+7. [Google liteRT.js](https://github.com/hpssjellis/my-tech-opinions/blob/main/tech-oct-2025.md#google-litertjs)
+8. [Me: Jeremy Ellis](https://github.com/hpssjellis/my-tech-opinions/blob/main/tech-oct-2025.md#me-jeremy-ellis)
 
 
 ### Rabbit R1
