@@ -99,11 +99,12 @@ Now $149  CDN  https://www.amazon.ca/dp/B0D9MK345T
 ---
 ### Google LiteRTjs
 
-
+My Demo page is [here](https://hpssjellis.github.io/my-examples-of-liteRTjs/public/index.html) 
+This is advanced tensorflow now called liteRT and liteRTjs it allows loading many .tflite 
 
 
 ### Me: Jeremy Ellis
-Teaching technology Sceince Math and Physics for 35 Years
+35-Year STEM Educator | Pioneering High School Robotics, IoT, and ML Curriculum with a specialization in WebAI and TinyML Integration.
 
 
 Github Profile https://github.com/hpssjellis
