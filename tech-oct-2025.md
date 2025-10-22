@@ -70,8 +70,15 @@ https://github.com/hpssjellis/maker100-curriculum
 Setup price suggestions for the Seeedstudio xiaoML-kit
 [https://hpssjellis.github.io/maker100-curriculum/price-list.html](https://hpssjellis.github.io/maker100-xiaoML-kit/price-list-xiaoml-kit.html)
 
-
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/b4326566-8709-4246-9e98-991a4b871418" />
+
+The PortentaH7 Robotics course: https://github.com/hpssjellis/maker100
+
+The Seeedstudio XioEsp32S3 nd RkWireless LoR course: https://github.com/hpssjellis/maker100-eco
+
+New 2026 The Seedstudio XioML kit https://github.com/hpssjellis/maker100-xiaoML-kit
+
+Possibly the UnoQ course is coming
 
 
 ----
@@ -82,6 +89,9 @@ Setup price suggestions for the Seeedstudio xiaoML-kit
 I have ordered 3 so have no opinion yet, but it is very interesting for $44 USD
 
 Arduino Store:  https://store-usa.arduino.cc/products/uno-q
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/e40fc506-80ed-4bcf-8863-a87ddc69f984" />
+
 
 
 ---
