@@ -93,7 +93,7 @@ Arduino Store:  https://store-usa.arduino.cc/products/uno-q
 
 Now $149  CDN  https://www.amazon.ca/dp/B0D9MK345T
 
-<img width="303" alt="image" src="https://github.com/user-attachments/assets/cec7be16-7417-4008-a5ce-ca048a541deb" />
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/cec7be16-7417-4008-a5ce-ca048a541deb" />
 
 
 ---
