@@ -11,6 +11,11 @@
 7. [Google liteRT.js](https://github.com/hpssjellis/my-tech-opinions/blob/main/tech-oct-2025.md#google-litertjs)
 8. [Me: Jeremy Ellis](https://github.com/hpssjellis/my-tech-opinions/blob/main/tech-oct-2025.md#me-jeremy-ellis)
 
+This page is at:  
+
+<img width="313" height="315" alt="image" src="https://github.com/user-attachments/assets/71bf96fa-13cf-4f46-a95f-abc92c0d171b" />
+
+
 
 ### Rabbit R1
 Cool little device, finicky and the Agentic AI part is in the cloud so you have no real control of it.
