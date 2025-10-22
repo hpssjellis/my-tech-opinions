@@ -82,9 +82,10 @@ Setup price suggestions for the Seeedstudio xiaoML-kit
 
 The PortentaH7 Robotics course: https://github.com/hpssjellis/maker100
 
-The Seeedstudio XioEsp32S3 nd RkWireless LoR course: https://github.com/hpssjellis/maker100-eco
+The Seeedstudio XioEsp32S3 and RkWireless LoRa course: https://github.com/hpssjellis/maker100-eco
 
 New 2026 The Seedstudio XioML kit https://github.com/hpssjellis/maker100-xiaoML-kit
+Notte: This microcontroller is supported by the Harvard EdgeAI book at  https://www.mlsysbook.ai/contents/labs/seeed/xiao_esp32s3/xiao_esp32s3.html
 
 Possibly the UnoQ course is coming
 
