@@ -9,7 +9,7 @@ https://www.rabbit.tech/support/article/which-countries-does-rabbit-r1-ship-to
 
 [Amazon $348.46 CDN](https://www.amazon.ca/rabbit-Voice-Activated-Assistant-Device-Transcription/dp/B0DYK831XY)
 
-<img width="344" height="350" alt="image" src="https://github.com/user-attachments/assets/15777293-ab46-4112-9303-9e4a95c33e85" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/15777293-ab46-4112-9303-9e4a95c33e85" />
 
 ---
 
@@ -22,7 +22,7 @@ Amazing device, good price, lots of control, but the individual parts give you b
 Login https://sensecraft.seeed.cc/
 
 
-<img width="529" height="414" alt="image" src="https://github.com/user-attachments/assets/a83bad3a-113a-495e-8c51-da05665ff94f" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a83bad3a-113a-495e-8c51-da05665ff94f" />
 
 ---
 
@@ -38,9 +38,9 @@ They are really interesting. If giving a presentation I would have backups of ev
 
 I did a full review here: https://github.com/hpssjellis/my-examples-and-posts-of-g1-even-realities-smart-glasses
 
-<img width="1272" height="627" alt="image" src="https://github.com/user-attachments/assets/e1016fca-4620-4414-ba6d-7e70c42fc402" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/e1016fca-4620-4414-ba6d-7e70c42fc402" />
 
-<img width="396" height="755" alt="image" src="https://github.com/user-attachments/assets/54a267a0-2d8a-4d6b-818d-17cd53874aef" />
+<img width="396"  alt="image" src="https://github.com/user-attachments/assets/54a267a0-2d8a-4d6b-818d-17cd53874aef" />
 
 
 
@@ -58,7 +58,7 @@ Great for students, no cloud storing student data.
 Demo at https://hpssjellis.github.io/teach-chrome-built-in-ai-with-examples/
 
 
-<img width="1429" height="653" alt="image" src="https://github.com/user-attachments/assets/3eec5acb-9cd9-4d10-859f-0f130a5d0b13" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/3eec5acb-9cd9-4d10-859f-0f130a5d0b13" />
 
 ----
 
@@ -71,7 +71,7 @@ Setup price suggestions for xiaoML-kit
 [https://hpssjellis.github.io/maker100-curriculum/price-list.html](https://hpssjellis.github.io/maker100-xiaoML-kit/price-list-xiaoml-kit.html)
 
 
-<img width="1298" height="802" alt="image" src="https://github.com/user-attachments/assets/b4326566-8709-4246-9e98-991a4b871418" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/b4326566-8709-4246-9e98-991a4b871418" />
 
 
 ----
@@ -83,7 +83,7 @@ Setup price suggestions for xiaoML-kit
 
 Now $149  CDN  https://www.amazon.ca/dp/B0D9MK345T
 
-<img width="303" height="707" alt="image" src="https://github.com/user-attachments/assets/cec7be16-7417-4008-a5ce-ca048a541deb" />
+<img width="303" alt="image" src="https://github.com/user-attachments/assets/cec7be16-7417-4008-a5ce-ca048a541deb" />
 
 
 ---
