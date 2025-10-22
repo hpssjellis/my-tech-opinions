@@ -27,6 +27,29 @@ Login https://sensecraft.seeed.cc/
 ---
 
 
+### EvenRealities G1B Smart Glasses
+
+
+ In USD for the basic glasses about $600,  $300 Clips, about $1200 for prescription glasses.
+My op[inion is I don't wear the glasses all day, if I did wear contact lens I would just have got the regular glasses and put them away 
+when I didn't need them. 
+
+They are really interesting. If giving a presentation I would have backups of everything I want to present.
+
+I did a full review here: https://github.com/hpssjellis/my-examples-and-posts-of-g1-even-realities-smart-glasses
+
+<img width="1272" height="627" alt="image" src="https://github.com/user-attachments/assets/e1016fca-4620-4414-ba6d-7e70c42fc402" />
+
+<img width="396" height="755" alt="image" src="https://github.com/user-attachments/assets/54a267a0-2d8a-4d6b-818d-17cd53874aef" />
+
+
+
+ 
+ https://www.evenrealities.com/g1
+
+
+---
+
 ### Chrome Built in AI
 Needs 4GB download and 22 GB free space. Loads a private LLM on your computer 
 
