@@ -8,7 +8,7 @@
 
 ### 1. 🎯 The Core Problem: User Friction is an Existential Threat
 
-Microcontroller companies currently ask users to complete an **obstacle course** just to get started. Advanced hardware like the **Uno Q (Linux/STM32)** highlights the promise of EdgeAI but also exposes the growing **friction** of complex, multi-tool development. If you don't aggressively reduce this friction now, users will abandon your platform for the easier, web-based alternative when it arrives.
+Microcontroller companies currently ask users to complete an **obstacle course** just to get started. Advanced hardware like **SBC (single board computer)** highlights the promise of EdgeAI but also exposes the growing **friction** of complex, multi-tool development. If you don't aggressively reduce this friction now, users will abandon your platform for the easier, web-based alternative when it arrives.
 
 ---
 
@@ -25,7 +25,7 @@ To retain your user base, you must transform your ecosystem from a single, rigid
         * Promote **"Known Good" Kits** that guarantee power and communication stability when combining your boards and official peripherals.
 
 * **Problem:** The Education Gap (The "Knowledge Chasm"). EdgeAI requires a new, complex skillset.
-    * **Solution: Build Progressive Learning Paths.** Offer **free, structured, hands-on tutorials** that build from basic electronics to advanced ML deployment. Focus on explaining the **"Why"** (architectural choices like the Uno Q's dual core) and the **"How"** (multiple implementation methods) simultaneously.
+    * **Solution: Build Progressive Learning Paths.** Offer **free, structured, hands-on tutorials** that build from basic electronics to advanced ML deployment. Focus on explaining the **"Why"** (architectural choices like the Microcnontroller's dual core or SBC's complex peripherals) and the **"How"** (multiple implementation methods) simultaneously.
 
 ---
 
