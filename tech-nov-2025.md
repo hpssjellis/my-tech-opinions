@@ -40,7 +40,7 @@ The community is the first line of defense against the UX-Wave by providing cruc
     * **Solution: Empower the Contributors.**
         * Officially recognize **Ambassador/MVP programs**.
         * Actively **curate and promote** community projects that showcase alternative and redundant solutions.
-    * **Structured Problem Solving (Contests):** Initiate **Community Challenge Contests** where the company publishes a list of 5-10 *officially recognized pain points* (e.g., "Best method for stable power on Uno Q + Camera"). Offer prizes like free hardware, significant social promotion, or cash rewards for the most robust, community-first solutions. This directs the collective energy of the community toward solving the company's biggest friction issues.
+    * **Structured Problem Solving (Contests):** Initiate **Community Challenge Contests** where the company publishes a list of 5-50 *officially recognized pain points* (e.g., "Best method for inexpensive solar power running tinyML or edgeAI with Camera"). Offer prizes like free hardware, significant social promotion, or cash rewards for the most robust, community-first solutions. This directs the collective energy of the community toward solving the company's biggest friction issues.
 
 ---
 
