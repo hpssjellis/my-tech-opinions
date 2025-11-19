@@ -110,7 +110,7 @@ As the UX-Wave makes basic usage free and easy, your value proposition must shif
 
 ### Connect with the Author
 
-* ** Jeremy Ellis **
+* **Jeremy Ellis**
 * **LinkedIn:** [Jeremy Ellis 4237a9bb](https://ca.linkedin.com/in/jeremy-ellis-4237a9bb)
 * **GitHub:** [hpssjellis](https://github.com/hpssjellis)
 * **Affiliation:** Member of the [tinyml.seas.harvard.edu/team](https://tinyml.seas.harvard.edu/team) team supporting the democratization of EdgeAI education.
