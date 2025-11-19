@@ -6,9 +6,10 @@
 
 ---
 
-### 1. 🎯 The Core Problem: User Friction is an Existential Threat
+### 1. 🎯 The Core Problem: Friction Tax, the High Cost of a Poor User Experience Wading Through the Software Swamp
 
-Microcontroller companies currently ask users to complete an **obstacle course** just to get started. Advanced hardware like **SBC (single board computer)** highlights the promise of EdgeAI but also exposes the growing **friction** of complex, multi-tool development. If you don't aggressively reduce this friction now, users will abandon your platform for the easier, web-based alternative when it arrives.
+Microcontroller companies currently ask users to complete an **obstacle course** just to get started. Advanced hardware like a **SBC (Single Board Computer)** highlights the promise of EdgeAI but also exposes the growing **friction** of complex, multi-tool development. If you don't aggressively reduce this friction now, users will abandon your platform for the easier, web-based alternative when it arrives, resulting in a continuous **"friction tax"** on your market share due to developers having to perpetually **wade through the software swamp**.
+
 
 ---
 
