@@ -117,18 +117,18 @@ The clock is ticking. The **UX-Wave** is coming to solve the software problems y
 ### 9.  Consulting Availability & Expectations
 To assist a forward-thinking company in implementing the strategies outlined above, I am available for Post-Retirement Consulting focused on the democratization of EdgeAI, K-12 curriculum development, and strategic partnerships. My engagement would be based on the following general expectations:
 
-* **Compensation: Monthly payment for all services rendered in the previous month.
+* **Compensation:** Monthly payment for all services rendered in the previous month.
 
-* **Professional Development/Travel: Pre-payment for attendance for myself and a travel partner for a minimum of four relevant conferences or educational events per year.
+* **Professional Development/Travel:** Pre-payment for attendance for myself and a travel partner for a minimum of four relevant conferences or educational events per year.
 
-* **Team Support: Collaboration with a dedicated, multidisciplinary team of software and hardware engineers prioritizing reasonable and agreed-upon strategic requests.
+* **Team Support:** Collaboration with a dedicated, multidisciplinary team of software and hardware engineers prioritizing reasonable and agreed-upon strategic requests.
 
-* **Operational Autonomy: The company's management will provide the autonomy necessary to focus on and execute strategic tasks where my expertise is best utilized, ensuring minimal bureaucratic constraint.
+* **Operational Autonomy:** The company's management will provide the autonomy necessary to focus on and execute strategic tasks where my expertise is best utilized, ensuring minimal bureaucratic constraint.
 
 ### 10.  Disclaimer & Author Information
 This article represents the informed opinion and analysis of the author, [Your First Name] [Your Last Name], based on current trends in EdgeAI, web development, and embedded systems. The projected timeframe for the "UX-Wave" (16-36 months from Nov 2025) is an estimate and not a guarantee. The suggestions provided are strategic recommendations for microcontroller companies to remain competitive.
 
-* **Connect with the Author
+* **Connect with the Author**
 
 **Jeremy Ellis**
 
