@@ -122,8 +122,10 @@ To assist a forward-thinking company in implementing the strategies outlined abo
 * **Professional Development/Travel:** Pre-payment for attendance for myself and a travel partner for a minimum of four relevant conferences or educational events per year.
 
 * **Team Support:** Collaboration with a multidisciplinary team of software and hardware engineers prioritizing reasonable time frame requests.
-* 
+  
 * **School Collaboration:** Collaboration with schools and teachers while maintaining school involvement.
+
+* **Emploment Respect:** I am either a full time technology teacher or a retired teacher on call. Eoither way I am in the classroom with classroom duties and the benefit of having a multiple technology testing environment.
 
 * **Operational Autonomy:** The company's management will provide the autonomy necessary to focus on and execute strategic tasks where my expertise is best utilized, ensuring minimal bureaucratic constraint.
 
