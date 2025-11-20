@@ -117,7 +117,7 @@ The clock is ticking. The **UX-Wave** is coming to solve the software problems y
 ### 9.  Consulting Availability & Expectations
 To assist a forward-thinking company in implementing the strategies outlined above, I am available for Post-Retirement Consulting focused on the democratization of EdgeAI, K-12 curriculum development, and strategic partnerships. My engagement would be based on the following general expectations:
 
-* **Compensation:** Monthly payment for all services rendered in the previous month.
+* **Compensation:** Monthly payment based on previous successes.
 
 * **Professional Development/Travel:** Pre-payment for attendance for myself and a travel partner for a minimum of four relevant conferences or educational events per year.
 
