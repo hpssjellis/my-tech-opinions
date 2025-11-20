@@ -114,27 +114,27 @@ The microcontroller company that wins the future will be the one that shifts its
 
 The clock is ticking. The **UX-Wave** is coming to solve the software problems you currently ignore. The only way to retain your base is to **aggressively reduce user frustration**, provide **redundant, simple pathways**, and **invest in high-quality, free education** today.
 
-* **Consulting Availability & Expectations**
+### 9.  Consulting Availability & Expectations**
 To assist a forward-thinking company in implementing the strategies outlined above, I am available for Post-Retirement Consulting focused on the democratization of EdgeAI, K-12 curriculum development, and strategic partnerships. My engagement would be based on the following general expectations:
 
-    * Compensation: Monthly payment for all services rendered in the previous month.
+* **Compensation: Monthly payment for all services rendered in the previous month.
 
-    * Professional Development/Travel: Pre-payment for attendance for myself and a travel partner for a minimum of four relevant conferences or educational events per year.
+* **Professional Development/Travel: Pre-payment for attendance for myself and a travel partner for a minimum of four relevant conferences or educational events per year.
 
-    * Team Support: Collaboration with a dedicated, multidisciplinary team of software and hardware engineers prioritizing reasonable and agreed-upon strategic requests.
+* **Team Support: Collaboration with a dedicated, multidisciplinary team of software and hardware engineers prioritizing reasonable and agreed-upon strategic requests.
 
-    * Operational Autonomy: The company's management will provide the autonomy necessary to focus on and execute strategic tasks where my expertise is best utilized, ensuring minimal bureaucratic constraint.
+* **Operational Autonomy: The company's management will provide the autonomy necessary to focus on and execute strategic tasks where my expertise is best utilized, ensuring minimal bureaucratic constraint.
 
-* **Disclaimer & Author Information
+### 10.  Disclaimer & Author Information
 This article represents the informed opinion and analysis of the author, [Your First Name] [Your Last Name], based on current trends in EdgeAI, web development, and embedded systems. The projected timeframe for the "UX-Wave" (16-36 months from Nov 2025) is an estimate and not a guarantee. The suggestions provided are strategic recommendations for microcontroller companies to remain competitive.
 
 * **Connect with the Author
-Jeremy Ellis
+**Jeremy Ellis**
 
-LinkedIn: Jeremy Ellis 4237a9bb
+**LinkedIn:** Jeremy Ellis 4237a9bb
 
-GitHub: hpssjellis
+**GitHub:** hpssjellis
 
-Affiliation: Member of the tinyml.seas.harvard.edu/team team supporting the democratization of EdgeAI education.
+**Affiliation:** Member of the tinyml.seas.harvard.edu/team team supporting the democratization of EdgeAI education.
 
-Note on MLSys/Open Collective: The author strongly encourages strategic support for the MLSys Book Open Collective as a means of building a sustainable, global user base for TinyML hardware.
+**Note on MLSys/Open Collective:** The author strongly encourages strategic support for the MLSys Book Open Collective as a means of building a sustainable, global user base for TinyML hardware.
