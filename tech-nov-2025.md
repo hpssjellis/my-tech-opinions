@@ -115,13 +115,15 @@ The microcontroller company that wins the future will be the one that shifts its
 The clock is ticking. The **UX-Wave** is coming to solve the software problems you currently ignore. The only way to retain your base is to **aggressively reduce user frustration**, provide **redundant, simple pathways**, and **invest in high-quality, free education** today.
 
 ### 9.  Consulting Availability & Expectations
-To assist a forward-thinking company in implementing the strategies outlined above, I am available for Post-Retirement Consulting focused on the democratization of EdgeAI, K-12 curriculum development, and strategic partnerships. My engagement would be based on the following general expectations:
+To assist a forward-thinking company in implementing the strategies outlined above, I am available for Post-Retirement Consulting focused on the democratization of EdgeAI, TinyML, K-12 curriculum development, and strategic partnerships. My engagement would be based on the following general expectations:
 
 * **Compensation:** Monthly payment based on previous successes.
 
 * **Professional Development/Travel:** Pre-payment for attendance for myself and a travel partner for a minimum of four relevant conferences or educational events per year.
 
-* **Team Support:** Collaboration with a dedicated, multidisciplinary team of software and hardware engineers prioritizing reasonable and agreed-upon strategic requests.
+* **Team Support:** Collaboration with a multidisciplinary team of software and hardware engineers prioritizing reasonable time frame requests.
+* 
+* **School Collaboration:** Collaboration with schools and teachers while maintaining school involvement.
 
 * **Operational Autonomy:** The company's management will provide the autonomy necessary to focus on and execute strategic tasks where my expertise is best utilized, ensuring minimal bureaucratic constraint.
 
