@@ -114,7 +114,7 @@ The microcontroller company that wins the future will be the one that shifts its
 
 The clock is ticking. The **UX-Wave** is coming to solve the software problems you currently ignore. The only way to retain your base is to **aggressively reduce user frustration**, provide **redundant, simple pathways**, and **invest in high-quality, free education** today.
 
-### 9.  Consulting Availability & Expectations**
+### 9.  Consulting Availability & Expectations
 To assist a forward-thinking company in implementing the strategies outlined above, I am available for Post-Retirement Consulting focused on the democratization of EdgeAI, K-12 curriculum development, and strategic partnerships. My engagement would be based on the following general expectations:
 
 * **Compensation: Monthly payment for all services rendered in the previous month.
@@ -129,6 +129,7 @@ To assist a forward-thinking company in implementing the strategies outlined abo
 This article represents the informed opinion and analysis of the author, [Your First Name] [Your Last Name], based on current trends in EdgeAI, web development, and embedded systems. The projected timeframe for the "UX-Wave" (16-36 months from Nov 2025) is an estimate and not a guarantee. The suggestions provided are strategic recommendations for microcontroller companies to remain competitive.
 
 * **Connect with the Author
+
 **Jeremy Ellis**
 
 **LinkedIn:** Jeremy Ellis 4237a9bb
